@@ -1,0 +1,51 @@
+************versao 3.2 **************
+
+*correcao de erro na hora de cadastrar pedido;
+
+*implementacao do metodo para acompanhamento de determinado pedido 
+"public AcompanhamentoDoPedido acompanhamentoDoPedido"; 
+
+*metodo para encaminhamento do pedido
+"public void encaminhaPedidoParaEntrega;
+
+*criacao do diagrama de classes;
+
+*implementacao da interface "Transportadora";
+
+*criacao de uma classe para testes com informacoes visuais;
+
+*adicao de atributos na classe "PedidoDeEntrega";
+
+*pre implementacao de serealizacao (class Serializable);
+
+*implementacao de metodos para cadastro de pedidos importados e nacionais;
+
+
+**************************************************************************
+
+versao 3.5 
+
+* implementacao do padrao singleton na classe GerenciadorPadraoSingleton;
+
+* criacao da subclasse ProdutoNacional;
+
+* novos testes;
+
+* criacao de uma subclasse da classe "Exception" com excessoes particulares (pacote excecao);
+
+***********************************************************************
+versao final
+
+* correcao de erro para encaminhar pedido;
+
+* novas excecoes;
+
+* criacao de um controle;
+
+* criacao de um menu para a aplicacao;
+
+* nao consegui implementar padrao estados;
+
+* implementacao de metodos para gerenciar o acompanhamento e o encaminhamento de pedidos;
+
+* 
